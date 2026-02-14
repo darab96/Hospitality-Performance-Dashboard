@@ -10,8 +10,6 @@ The dashboard provides a consolidated, decision-ready view of key hospitality KP
 **Live Dashboard**: [Click here](https://app.powerbi.com/view?r=eyJrIjoiOGRkMjY0ZDktZjNiZi00MjgwLWE2MGEtMWVmMGU4ZWY2NzM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)\
 **Github Link**: [Click here](https://github.com/darab96/Hospitality-Performance-Dashboard)
 
----
-
 ## 🚀 Key Achievements:
 
 ✅ Built an end-to-end Power BI dashboard tracking **RevPAR, ADR, Occupancy Rate, Realization Rate, and Room Nights**.
@@ -24,8 +22,6 @@ The dashboard provides a consolidated, decision-ready view of key hospitality KP
 
 ✅ Enabled granular drill-down using **10+ dynamic filters** for city, room type, platform, and time period.
 
----
-
 ## 📊 Data Scope:
 
 - City-level performance data across multiple locations  
@@ -33,16 +29,12 @@ The dashboard provides a consolidated, decision-ready view of key hospitality KP
 - Booking platform-level metrics  
 - Weekly and monthly time-based performance data  
 
----
-
 ## ⚡ Analytical Features:
 
 - Week-on-week KPI comparison for **RevPAR, ADR, and Occupancy**  
 - Trend analysis for pricing and demand patterns  
 - Platform-level performance comparison  
 - Property-wise analysis of bookings, revenue, cancellations, and ratings  
-
----
 
 ## 🛠 Technical Skills Applied:
 
